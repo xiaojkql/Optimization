@@ -1,4 +1,4 @@
-# Optimization
+# Optimization and Mathmaticas
 
 ## Linear Programming
 
@@ -9,3 +9,7 @@
 ## Convex Optimization
 
 ## Dynamic Programming
+
+## Linear Algebra
+
+## Probability
