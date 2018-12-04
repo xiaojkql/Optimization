@@ -1,5 +1,11 @@
-# 记录自己学习优化理论、算法的一个Rep
+# Optimization
 
-## Linear Optimization
+## Linear Programming
+
+## Integer Programming
 
 ## [Nonlinear Optimization](https://github.com/xiaojkql/Optimization/tree/master/Nonlinear%20Optimization)
+
+## Convex Optimization
+
+## Dynamic Programming
